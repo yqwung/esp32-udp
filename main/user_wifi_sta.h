@@ -6,8 +6,8 @@ extern "C" {
 #endif
 
 
-#define WIFI_SSID           "whome"
-#define WIFI_PASS           "whome.271.zsedc"
+#define WIFI_SSID           "yourwifi"
+#define WIFI_PASS           "wifipassword"
 
 
 void user_wifi_config_sta(void);
